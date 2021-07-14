@@ -2,7 +2,7 @@
 https://github.com/lmc999/RegionRestrictionCheck
 
 ### 美国解锁
-| 流媒体 | DMIT<br>LAX.Lite<br>136.175.17*.*<br>2021.07.14 | 90vm<br>美国云BGP<br>103.152.11*.*<br>2021.07.14 |
+| 流媒体 | DMIT<br>LAX.Lite<br>136.175.17*.* | 90vm<br>美国云BGP<br>103.152.11*.* |
 | :-----------:  | :-----------:  | :-----------: |
 | Dazn | No | No |
 | Netflix | Yes (US) | Yes (US) |
@@ -24,7 +24,7 @@ https://github.com/lmc999/RegionRestrictionCheck
 | encoreTVB | No | Yes |
 
 ### 香港解锁
-| 流媒体 | DMIT<br>HKG.Lite<br>103.135.25*.*<br>2021.07.14 | BGPSHOP<br>香港 VPS<br>103.138.5*.*<br>2021.07.14 | 90vm<br>广港IEPL<br>103.232.21*.*<br>2021.07.14 |
+| 流媒体 | DMIT<br>HKG.Lite<br>103.135.25*.* | BGPSHOP<br>香港 VPS<br>103.138.5*.* | 90vm<br>广港IEPL<br>103.232.21*.* |
 | :-----------:  | :-----------:  | :-----------: | :-----------: |
 | Dazn | No | No | No |
 | Netflix | Yes (HK) | Yes (HK) | No |
@@ -42,7 +42,7 @@ https://github.com/lmc999/RegionRestrictionCheck
 | BiliBili 港澳台 | No | No | Yes |
 
 ### 新加坡解锁
-| 流媒体 | centerhop<br>Singapore<br>103.83.15*.*<br>2021.07.14 | WebHorizon<br>Singapore-nat<br>194.233.7*.*<br>2021.07.14 |
+| 流媒体 | centerhop<br>Singapore<br>103.83.15*.* | WebHorizon<br>Singapore-nat<br>194.233.7*.* |
 | :-----------:  | :-----------:  | :-----------: |
 | Dazn | Yes (SG) | No |
 | Netflix | Yes (SG) | Yes (SG) |
@@ -56,7 +56,7 @@ https://github.com/lmc999/RegionRestrictionCheck
 | Steam Currency | SGD | No |
 
 ### 日本解锁
-| 流媒体 | Indigo<br>Japan<br>164.70.11*.*<br>2021.07.14 | 微基<br>日本CN2<br>27.124.3*.*<br>2021.07.14 |
+| 流媒体 | Indigo<br>Japan<br>164.70.11*.* | 微基<br>日本CN2<br>27.124.3*.* |
 | :-----------:  | :-----------:  | :-----------: |
 | Dazn | No | No |
 | Netflix | Mark Only | Yes (JP) |
