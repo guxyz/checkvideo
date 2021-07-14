@@ -1,3 +1,6 @@
+### 检测脚本来源
+https://github.com/lmc999/RegionRestrictionCheck
+
 ### 美国解锁
 | 流媒体 | DMIT<br>LAX.Lite<br>136.175.17*.*<br>2021.07.14 | 90vm<br>美国云BGP<br>103.152.11*.*<br>2021.07.14 |
 | :-----------:  | :-----------:  | :-----------: |
